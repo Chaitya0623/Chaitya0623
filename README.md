@@ -6,10 +6,11 @@ Being a fast learner and a hardworking student, I'm passionate about Computer En
 
 - 👨‍💻 I am a Machine Learning Developer and a Data Science Enthusiast.
 - 🌐 I am a Full Stack Developer, expertized in React and Django.
-- 🚀 Proud member of DJS Antariksh, Official Martian Rover Team of DJSCE.
+- 🚀 Coding Team Member at DJS Antariksh, Official Martian Rover Team of DJSCE.
 - 🏁 **International Competitions**: 3rd Position in International Rover Design Challenge (IRDC) 2022, 8th in International Rover Challenge
 (IRC) 2023 and Qualified for European Rover Challenge (ERC) (Onsite and Remote) 2023
 - 🧾 I am a Research Intern at IIT Patna.
+- 🥇 I am the Machine Learning Head at Synapse (AI/ML Committee).
 - ❤️‍🩹 I am an Artificial Intelligence Intern at Infiheal (makes Mental Health Chatbots).
 - 🥇 I am the winner of X-tract 2022 (AI/ML Datathon).
 
