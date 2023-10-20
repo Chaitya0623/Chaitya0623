@@ -22,7 +22,7 @@ Being a fast learner and a hardworking student, I'm passionate about Computer En
   <a href="https://github.com/Chaitya0623/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Chaitya0623&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
+  <a href="https://github.com/Chaitya0623/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitya0623&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
 </p>
