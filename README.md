@@ -39,5 +39,5 @@ Being a fast learner and a hardworking student, I'm passionate about Computer En
 ## Contact Me
 
 - 📧 Email: chaitya0623@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/chaitya-shah-381b5421b/](https://www.linkedin.com/in/chaitya-shah-381b5421b/)
+- 💼 LinkedIn: [linkedin.com/in/chaitya-shah-381b5421b/](https://www.linkedin.com/in/chaityas/)
 - 🐱 GitHub: [github.com/Chaitya0623](https://github.com/Chaitya0623)
